@@ -121,7 +121,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="XnBZIwVVuahUYT9JBQLn-12" value="显示排行榜" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="1389" width="120" height="60" as="geometry" />
+          <mxGeometry x="490" y="1289" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="XnBZIwVVuahUYT9JBQLn-16" value="是" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="280" y="735" width="60" height="30" as="geometry" />
