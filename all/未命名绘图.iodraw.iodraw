@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="xSsC4l6gW0j9RyGpOAmp-1" value="吃豆人" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="318" y="-10" width="96" height="40" as="geometry" />
+          <mxGeometry x="380" y="-10" width="96" height="40" as="geometry" />
         </mxCell>
         <mxCell id="xSsC4l6gW0j9RyGpOAmp-2" value="界面显示" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="40" width="90" height="40" as="geometry" />
@@ -84,10 +84,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="xSsC4l6gW0j9RyGpOAmp-20" value="用&lt;div&gt;户&lt;/div&gt;&lt;div&gt;按&lt;/div&gt;&lt;div&gt;键&lt;/div&gt;&lt;div&gt;接&lt;/div&gt;&lt;div&gt;收&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="150" width="40" height="100" as="geometry" />
+          <mxGeometry x="490" y="150" width="40" height="100" as="geometry" />
         </mxCell>
         <mxCell id="xSsC4l6gW0j9RyGpOAmp-22" value="吃&lt;div&gt;豆&lt;/div&gt;&lt;div&gt;人&lt;/div&gt;&lt;div&gt;移&lt;/div&gt;&lt;div&gt;动&lt;/div&gt;&lt;div&gt;逻&lt;/div&gt;&lt;div&gt;辑&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="150" width="40" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="xSsC4l6gW0j9RyGpOAmp-23" value="用&lt;div&gt;户&lt;/div&gt;&lt;div&gt;按&lt;/div&gt;&lt;div&gt;键&lt;/div&gt;&lt;div&gt;接&lt;/div&gt;&lt;div&gt;收&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="170" width="40" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="xSsC4l6gW0j9RyGpOAmp-24" value="用&lt;div&gt;户&lt;/div&gt;&lt;div&gt;按&lt;/div&gt;&lt;div&gt;键&lt;/div&gt;&lt;div&gt;接&lt;/div&gt;&lt;div&gt;收&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="180" width="40" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
