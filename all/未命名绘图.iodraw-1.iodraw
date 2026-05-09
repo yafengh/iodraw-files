@@ -4,9 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="JBl7esRiikEESIl16oaj-1" value="吃豆人" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="120" y="200" width="120" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="JBl7esRiikEESIl16oaj-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="280" width="120" height="40" as="geometry" />
         </mxCell>
