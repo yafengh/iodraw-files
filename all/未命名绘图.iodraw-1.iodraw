@@ -11,7 +11,7 @@
           <mxGeometry x="15" y="90" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="JBl7esRiikEESIl16oaj-6" value="选择难度" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="265" y="360" width="120" height="60" as="geometry" />
+          <mxGeometry x="15" y="300" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JBl7esRiikEESIl16oaj-8" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="JBl7esRiikEESIl16oaj-4" target="JBl7esRiikEESIl16oaj-5">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
