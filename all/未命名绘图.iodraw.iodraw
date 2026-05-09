@@ -151,8 +151,8 @@
             <mxPoint x="620" y="290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xSsC4l6gW0j9RyGpOAmp-41" value="界面显示" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="180" y="50" width="90" height="40" as="geometry" />
+        <mxCell id="xSsC4l6gW0j9RyGpOAmp-41" value="数据存储" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="324" y="365" width="90" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
