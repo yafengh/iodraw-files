@@ -152,10 +152,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="xSsC4l6gW0j9RyGpOAmp-41" value="数据存储" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="470" width="90" height="50" as="geometry" />
+          <mxGeometry x="260" y="480" width="90" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="xSsC4l6gW0j9RyGpOAmp-42" value="存&lt;div&gt;储&lt;/div&gt;&lt;div&gt;用&lt;/div&gt;&lt;div&gt;户&lt;/div&gt;&lt;div&gt;姓&lt;/div&gt;&lt;div&gt;名&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="236" y="590" width="40" height="100" as="geometry" />
+        <mxCell id="xSsC4l6gW0j9RyGpOAmp-42" value="存&lt;div&gt;储&lt;/div&gt;&lt;div&gt;用&lt;/div&gt;&lt;div&gt;户&lt;/div&gt;&lt;div&gt;信&lt;/div&gt;&lt;div&gt;息&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="590" width="40" height="100" as="geometry" />
         </mxCell>
         <mxCell id="xSsC4l6gW0j9RyGpOAmp-44" value="创&lt;div&gt;建&lt;/div&gt;&lt;div&gt;或&lt;/div&gt;&lt;div&gt;打&lt;/div&gt;&lt;div&gt;开&lt;/div&gt;&lt;div&gt;文&lt;/div&gt;&lt;div&gt;件&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="150" y="590" width="40" height="100" as="geometry" />
