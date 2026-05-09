@@ -32,13 +32,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="xSsC4l6gW0j9RyGpOAmp-6" value="登&lt;div&gt;陆&lt;/div&gt;&lt;div&gt;界&lt;/div&gt;&lt;div&gt;面&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="90" y="150" width="30" height="70" as="geometry" />
+          <mxGeometry x="100" y="150" width="30" height="70" as="geometry" />
         </mxCell>
         <mxCell id="xSsC4l6gW0j9RyGpOAmp-7" value="输&lt;div&gt;入&lt;/div&gt;&lt;div&gt;姓&lt;/div&gt;&lt;div&gt;名&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="150" width="30" height="70" as="geometry" />
         </mxCell>
         <mxCell id="xSsC4l6gW0j9RyGpOAmp-9" value="选&lt;div&gt;择&lt;/div&gt;&lt;div&gt;难&lt;/div&gt;&lt;div&gt;度&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="210" y="150" width="30" height="70" as="geometry" />
+          <mxGeometry x="230" y="150" width="30" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
