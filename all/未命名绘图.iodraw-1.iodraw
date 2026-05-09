@@ -88,10 +88,10 @@
         <mxCell id="JBl7esRiikEESIl16oaj-28" value="碰到怪物" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="285" y="1040" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="JBl7esRiikEESIl16oaj-29" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="JBl7esRiikEESIl16oaj-29" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="JBl7esRiikEESIl16oaj-21">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="390" y="940" as="sourcePoint" />
-            <mxPoint x="440" y="890" as="targetPoint" />
+            <mxPoint x="325" y="1000" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
