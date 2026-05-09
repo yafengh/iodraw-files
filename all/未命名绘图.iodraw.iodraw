@@ -84,13 +84,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="xSsC4l6gW0j9RyGpOAmp-20" value="用&lt;div&gt;户&lt;/div&gt;&lt;div&gt;按&lt;/div&gt;&lt;div&gt;键&lt;/div&gt;&lt;div&gt;接&lt;/div&gt;&lt;div&gt;收&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="450" y="140" width="40" height="100" as="geometry" />
+          <mxGeometry x="450" y="170" width="40" height="100" as="geometry" />
         </mxCell>
         <mxCell id="xSsC4l6gW0j9RyGpOAmp-22" value="吃&lt;div&gt;豆&lt;/div&gt;&lt;div&gt;人&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="140" width="40" height="100" as="geometry" />
+          <mxGeometry x="560" y="170" width="40" height="100" as="geometry" />
         </mxCell>
         <mxCell id="xSsC4l6gW0j9RyGpOAmp-24" value="怪&lt;div&gt;物&lt;/div&gt;&lt;div&gt;随&lt;/div&gt;&lt;div&gt;机&lt;/div&gt;&lt;div&gt;移&lt;/div&gt;&lt;div&gt;动&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="660" y="140" width="40" height="100" as="geometry" />
+          <mxGeometry x="660" y="170" width="40" height="100" as="geometry" />
         </mxCell>
         <mxCell id="xSsC4l6gW0j9RyGpOAmp-25" value="吃&lt;div&gt;豆&lt;/div&gt;&lt;div&gt;人&lt;/div&gt;&lt;div&gt;移&lt;/div&gt;&lt;div&gt;动&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="450" y="310" width="40" height="100" as="geometry" />
@@ -105,12 +105,16 @@
           <mxGeometry x="652" y="310" width="40" height="100" as="geometry" />
         </mxCell>
         <mxCell id="xSsC4l6gW0j9RyGpOAmp-30" value="金&lt;div&gt;币&lt;/div&gt;&lt;div&gt;随&lt;/div&gt;&lt;div&gt;即&lt;/div&gt;&lt;div&gt;生&lt;/div&gt;&lt;div&gt;成&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="760" y="140" width="40" height="100" as="geometry" />
+          <mxGeometry x="760" y="170" width="40" height="100" as="geometry" />
         </mxCell>
         <mxCell id="xSsC4l6gW0j9RyGpOAmp-32" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.441;exitY=1.011;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="xSsC4l6gW0j9RyGpOAmp-3" target="xSsC4l6gW0j9RyGpOAmp-20">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="570" y="200" as="sourcePoint" />
             <mxPoint x="620" y="150" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="600" y="110" />
+              <mxPoint x="470" y="110" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
