@@ -180,8 +180,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="XnBZIwVVuahUYT9JBQLn-29" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="XnBZIwVVuahUYT9JBQLn-29" value="是" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="285" y="550" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XnBZIwVVuahUYT9JBQLn-30" value="生命值等于0" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="225" y="840" width="80" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
