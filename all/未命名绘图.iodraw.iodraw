@@ -5,13 +5,13 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="xSsC4l6gW0j9RyGpOAmp-1" value="吃豆人" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="-10" width="96" height="40" as="geometry" />
+          <mxGeometry x="290" y="-10" width="96" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="xSsC4l6gW0j9RyGpOAmp-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="60" width="90" height="40" as="geometry" />
+        <mxCell id="xSsC4l6gW0j9RyGpOAmp-2" value="前端" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="60" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="xSsC4l6gW0j9RyGpOAmp-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="430" y="60" width="92" height="40" as="geometry" />
+          <mxGeometry x="400" y="60" width="92" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
