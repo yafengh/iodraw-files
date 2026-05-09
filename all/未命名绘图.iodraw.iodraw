@@ -83,8 +83,8 @@
             <mxPoint x="390" y="150" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xSsC4l6gW0j9RyGpOAmp-20" value="用&lt;div&gt;户&lt;/div&gt;&lt;div&gt;按&lt;/div&gt;&lt;div&gt;键&lt;/div&gt;&lt;div&gt;接&lt;/div&gt;&lt;div&gt;受&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="120" width="40" height="100" as="geometry" />
+        <mxCell id="xSsC4l6gW0j9RyGpOAmp-20" value="用&lt;div&gt;户&lt;/div&gt;&lt;div&gt;按&lt;/div&gt;&lt;div&gt;键&lt;/div&gt;&lt;div&gt;接&lt;/div&gt;&lt;div&gt;收&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="150" width="40" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
