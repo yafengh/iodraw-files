@@ -85,8 +85,8 @@
             <mxPoint x="325" y="1000" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JBl7esRiikEESIl16oaj-28" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="285" y="1000" width="80" height="80" as="geometry" />
+        <mxCell id="JBl7esRiikEESIl16oaj-28" value="碰到怪物" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="285" y="1000" width="80" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
