@@ -114,12 +114,6 @@
         <mxCell id="XnBZIwVVuahUYT9JBQLn-8" value="显示结束画面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="1289" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="XnBZIwVVuahUYT9JBQLn-11" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="XnBZIwVVuahUYT9JBQLn-8">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="380" y="1369" as="sourcePoint" />
-            <mxPoint x="340" y="1399" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="XnBZIwVVuahUYT9JBQLn-12" value="显示排行榜" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="490" y="1289" width="120" height="60" as="geometry" />
         </mxCell>
@@ -209,6 +203,12 @@
         </mxCell>
         <mxCell id="XnBZIwVVuahUYT9JBQLn-39" value="否" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="295" y="1200" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XnBZIwVVuahUYT9JBQLn-40" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="XnBZIwVVuahUYT9JBQLn-8" target="XnBZIwVVuahUYT9JBQLn-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="1360" as="sourcePoint" />
+            <mxPoint x="430" y="1310" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
