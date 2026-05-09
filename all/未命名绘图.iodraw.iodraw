@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="xSsC4l6gW0j9RyGpOAmp-1" value="吃豆人" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="290" y="-10" width="96" height="40" as="geometry" />
+          <mxGeometry x="318" y="-10" width="96" height="40" as="geometry" />
         </mxCell>
         <mxCell id="xSsC4l6gW0j9RyGpOAmp-2" value="界面显示" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="60" width="90" height="40" as="geometry" />
@@ -45,6 +45,12 @@
         </mxCell>
         <mxCell id="xSsC4l6gW0j9RyGpOAmp-14" value="用&lt;div&gt;户&lt;/div&gt;&lt;div&gt;操&lt;/div&gt;&lt;div&gt;作&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="150" width="30" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="xSsC4l6gW0j9RyGpOAmp-15" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="xSsC4l6gW0j9RyGpOAmp-2" target="xSsC4l6gW0j9RyGpOAmp-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="340" y="200" as="sourcePoint" />
+            <mxPoint x="390" y="150" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
