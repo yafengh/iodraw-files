@@ -41,7 +41,10 @@
           <mxGeometry x="200" y="150" width="30" height="70" as="geometry" />
         </mxCell>
         <mxCell id="xSsC4l6gW0j9RyGpOAmp-11" value="显&lt;div&gt;示&lt;/div&gt;&lt;div&gt;游&lt;/div&gt;&lt;div&gt;戏&lt;/div&gt;&lt;div&gt;界&lt;/div&gt;&lt;div&gt;面&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="150" width="30" height="70" as="geometry" />
+          <mxGeometry x="250" y="150" width="30" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="xSsC4l6gW0j9RyGpOAmp-12" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="130" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
