@@ -113,21 +113,21 @@
             <mxPoint x="200" y="1150" as="targetPoint" />
             <Array as="points">
               <mxPoint x="200" y="518" />
-              <mxPoint x="200" y="1150" />
+              <mxPoint x="200" y="1200" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="XnBZIwVVuahUYT9JBQLn-8" value="显示结束画面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="290" y="1120" width="120" height="60" as="geometry" />
+          <mxGeometry x="290" y="1169" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="XnBZIwVVuahUYT9JBQLn-11" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="XnBZIwVVuahUYT9JBQLn-8">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="390" y="1200" as="sourcePoint" />
-            <mxPoint x="350" y="1230" as="targetPoint" />
+            <mxPoint x="390" y="1249" as="sourcePoint" />
+            <mxPoint x="350" y="1279" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="XnBZIwVVuahUYT9JBQLn-12" value="显示排行榜" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="290" y="1220" width="120" height="60" as="geometry" />
+          <mxGeometry x="290" y="1269" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="XnBZIwVVuahUYT9JBQLn-16" value="是" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="280" y="735" width="60" height="30" as="geometry" />
