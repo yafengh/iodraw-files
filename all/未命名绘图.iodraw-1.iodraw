@@ -41,7 +41,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="JBl7esRiikEESIl16oaj-15" value="进入游戏界面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="265" y="460" width="120" height="60" as="geometry" />
+          <mxGeometry x="15" y="390" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JBl7esRiikEESIl16oaj-16" value="吃豆人生命大于0并且未吃完全部金币" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="570" width="130" height="75" as="geometry" />
