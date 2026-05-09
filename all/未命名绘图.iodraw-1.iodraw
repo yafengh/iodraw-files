@@ -72,8 +72,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="JBl7esRiikEESIl16oaj-21" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="450" y="695" width="90" height="65" as="geometry" />
+        <mxCell id="JBl7esRiikEESIl16oaj-21" value="吃到金币" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="790" width="90" height="65" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
