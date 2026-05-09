@@ -22,7 +22,7 @@
         <mxCell id="JBl7esRiikEESIl16oaj-16" value="未吃完全部金币" style="rhombus;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="485" y="120" width="130" height="75" as="geometry" />
         </mxCell>
-        <mxCell id="JBl7esRiikEESIl16oaj-18" value="控制吃豆人移动" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JBl7esRiikEESIl16oaj-18" value="控制吃豆人移动" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="495" y="224.5" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="JBl7esRiikEESIl16oaj-19" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="JBl7esRiikEESIl16oaj-16" target="JBl7esRiikEESIl16oaj-18">
@@ -40,7 +40,7 @@
             <mxPoint x="915" y="360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JBl7esRiikEESIl16oaj-24" value="得分增加" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JBl7esRiikEESIl16oaj-24" value="得分增加" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="495" y="410" width="110" height="55" as="geometry" />
         </mxCell>
         <mxCell id="JBl7esRiikEESIl16oaj-25" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="JBl7esRiikEESIl16oaj-21" target="JBl7esRiikEESIl16oaj-24">
@@ -58,7 +58,7 @@
             <mxPoint x="905" y="730" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XnBZIwVVuahUYT9JBQLn-2" value="生命减少" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="XnBZIwVVuahUYT9JBQLn-2" value="生命减少" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="500" y="710" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="XnBZIwVVuahUYT9JBQLn-4" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="JBl7esRiikEESIl16oaj-21">
