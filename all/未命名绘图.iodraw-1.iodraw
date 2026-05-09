@@ -62,7 +62,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="JBl7esRiikEESIl16oaj-21" value="吃到金币" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="170" y="810" width="90" height="65" as="geometry" />
+          <mxGeometry x="470" y="710" width="90" height="65" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
