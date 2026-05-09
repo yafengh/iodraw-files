@@ -122,7 +122,7 @@
         <mxCell id="XnBZIwVVuahUYT9JBQLn-6" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="JBl7esRiikEESIl16oaj-28">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="660" y="940" as="sourcePoint" />
-            <mxPoint x="345" y="1030" as="targetPoint" />
+            <mxPoint x="390" y="1030" as="targetPoint" />
             <Array as="points">
               <mxPoint x="430" y="895" />
               <mxPoint x="430" y="1030" />
@@ -157,7 +157,7 @@
         <mxCell id="XnBZIwVVuahUYT9JBQLn-18" value="否" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="400" y="670" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="XnBZIwVVuahUYT9JBQLn-19" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="XnBZIwVVuahUYT9JBQLn-19" value="是" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="270" y="910" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
