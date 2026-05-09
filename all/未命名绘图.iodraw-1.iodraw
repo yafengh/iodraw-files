@@ -130,7 +130,7 @@
           <mxGeometry x="400" y="670" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XnBZIwVVuahUYT9JBQLn-19" value="是" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="260" y="1030" width="60" height="30" as="geometry" />
+          <mxGeometry x="285" y="1030" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XnBZIwVVuahUYT9JBQLn-21" value="否" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="420" y="1040" width="60" height="30" as="geometry" />
@@ -207,7 +207,7 @@
         <mxCell id="XnBZIwVVuahUYT9JBQLn-36" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="380" y="980" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="XnBZIwVVuahUYT9JBQLn-37" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="XnBZIwVVuahUYT9JBQLn-37" value="否" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="350" y="910" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
