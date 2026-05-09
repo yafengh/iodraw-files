@@ -10,8 +10,8 @@
         <mxCell id="JBl7esRiikEESIl16oaj-5" value="用户登录界面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="275" y="220" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="JBl7esRiikEESIl16oaj-6" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="265" y="330" width="120" height="60" as="geometry" />
+        <mxCell id="JBl7esRiikEESIl16oaj-6" value="选择难度" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="255" y="390" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
