@@ -11,7 +11,10 @@
           <mxGeometry x="275" y="220" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="JBl7esRiikEESIl16oaj-6" value="选择难度" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="255" y="390" width="120" height="60" as="geometry" />
+          <mxGeometry x="265" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JBl7esRiikEESIl16oaj-7" value="输入姓名并存储" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="310" width="105" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
