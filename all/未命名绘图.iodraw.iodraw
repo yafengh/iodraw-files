@@ -8,7 +8,7 @@
           <mxGeometry x="290" y="-10" width="96" height="40" as="geometry" />
         </mxCell>
         <mxCell id="xSsC4l6gW0j9RyGpOAmp-2" value="界面显示" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="130" y="60" width="90" height="40" as="geometry" />
+          <mxGeometry x="170" y="60" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="xSsC4l6gW0j9RyGpOAmp-3" value="内部逻辑" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="60" width="92" height="40" as="geometry" />
@@ -26,6 +26,9 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="340" y="190" as="sourcePoint" />
             <mxPoint x="390" y="140" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="526" y="10" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
