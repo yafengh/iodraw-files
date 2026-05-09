@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="xSsC4l6gW0j9RyGpOAmp-1" value="吃豆人" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="-120" width="96" height="40" as="geometry" />
+          <mxGeometry x="550" y="-120" width="96" height="40" as="geometry" />
         </mxCell>
         <mxCell id="xSsC4l6gW0j9RyGpOAmp-2" value="界面显示" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="40" width="90" height="40" as="geometry" />
@@ -193,7 +193,7 @@
             <mxPoint x="640" y="110" as="sourcePoint" />
             <mxPoint x="690" y="60" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="608" y="-40" />
+              <mxPoint x="600" y="-40" />
               <mxPoint x="215" y="-40" />
             </Array>
           </mxGeometry>
@@ -209,7 +209,7 @@
         </mxCell>
         <mxCell id="xSsC4l6gW0j9RyGpOAmp-52" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="xSsC4l6gW0j9RyGpOAmp-3">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="610" y="-40" as="sourcePoint" />
+            <mxPoint x="600" y="-40" as="sourcePoint" />
             <mxPoint x="690" y="170" as="targetPoint" />
           </mxGeometry>
         </mxCell>
