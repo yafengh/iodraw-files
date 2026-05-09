@@ -17,7 +17,7 @@
           <mxGeometry x="205" y="10" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JBl7esRiikEESIl16oaj-15" value="进入游戏界面" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="480" y="-40" width="120" height="60" as="geometry" />
+          <mxGeometry x="485" y="-110" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JBl7esRiikEESIl16oaj-16" value="未吃完全部金币" style="rhombus;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="485" y="120" width="130" height="75" as="geometry" />
