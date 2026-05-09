@@ -43,7 +43,7 @@
         <mxCell id="JBl7esRiikEESIl16oaj-15" value="进入游戏界面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="285" y="390" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="JBl7esRiikEESIl16oaj-16" value="吃豆人生命大于0或未吃完全部金币" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JBl7esRiikEESIl16oaj-16" value="未吃完全部金币" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="480" width="130" height="75" as="geometry" />
         </mxCell>
         <mxCell id="JBl7esRiikEESIl16oaj-17" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="JBl7esRiikEESIl16oaj-15" target="JBl7esRiikEESIl16oaj-16">
